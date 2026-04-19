@@ -4,6 +4,8 @@ Godot editor plugin for generating theme variants from a template by grabbing un
 
 It is aimed at workflows where you already have a hand-authored theme resource and want to create alternate colourways without manually editing every repeated colour entry.
 
+<img width="491" height="653" alt="{A6403AC2-7B8D-4A8B-8334-F999F2B57DFF}" src="https://github.com/user-attachments/assets/2d924119-e3c3-4224-a365-66f7dddd2e9b" />
+
 ## Features
 
 - Scans a theme file for unique colours
