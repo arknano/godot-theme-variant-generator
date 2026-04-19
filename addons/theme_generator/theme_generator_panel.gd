@@ -106,10 +106,10 @@ func _build_row_target_buttons(parent: VBoxContainer) -> void:
 	var generate_row := HBoxContainer.new()
 	parent.add_child(generate_row)
 
-	var generate_button = _create_button(
+	_generate_button = _create_button(
 		generate_row, "Generate Variant", _on_generate_button, true
 	)
-	generate_button.disabled = true
+	_generate_button.disabled = true
 
 	_create_button(generate_row, "Load Colours from Variant", _on_load_colours_button)
 
