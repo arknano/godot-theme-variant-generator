@@ -1,4 +1,6 @@
 # Theme Variant Generator
+[![Licence](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/arknano/godot-theme-variant-generator/blob/main/LICENSE)
+[![Godot version](https://img.shields.io/badge/Godot%20Engine-4.5.1-blue.svg)](https://github.com/godotengine/godot/)
 
 Godot editor plugin for generating theme variants from a template by grabbing unique colours and replacing them with new colours.
 
